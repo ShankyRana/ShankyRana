@@ -1,1 +1,1 @@
-[![Stats](https://github-readme-stats.vercel.app/api?username=ShankyRana&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shankyrana)](https://git.io/streak-stats)
