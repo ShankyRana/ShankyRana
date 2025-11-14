@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=shankyrana)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shankyrana&theme=aura)[![GitHub Streak](https://streak-stats.demolab.com?user=shankyrana&theme=aura)](https://git.io/streak-stats)
