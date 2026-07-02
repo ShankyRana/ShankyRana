@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shanky-rana-9b3b83b8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://cipherfit.com"><img src="https://s3.us-west-2.amazonaws.com/cipherfit.com/assets/cipherfit-logo.svg" style="height:55px" /></a>
+  <a href="https://cipherfit.com"><img src="https://s3.us-west-2.amazonaws.com/cipherfit.com/assets/cipherfit-logo.svg" style="border: 2px solid white; height:55px; border-radius: 10px;" /></a>
   <a href="mailto:shanky@cipherfit"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
