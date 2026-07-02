@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shanky-rana-9b3b83b8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://cipherfit.com"><img src="https://img.shields.io/badge/Cipherfit-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://cipherfit.com"><img src="https://s3.us-west-2.amazonaws.com/cipherfit.com/assets/cipherfit-logo.svg" style="height:55px" /></a>
   <a href="mailto:shanky@cipherfit"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -105,7 +105,8 @@ Full write-ups for all of the above: **[portfolio-showcases repo](https://github
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ShankyRana&show_icons=true&theme=aura&hide_rank=true" />
+  
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ShankyRana?cardType=level&theme=nightowl&fontFamily=&preferLogin=false&Points.Commits=10&Background=15141B&Title=A277FF&Ring=A277FF" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShankyRana&theme=aura" />
 </p>
 
