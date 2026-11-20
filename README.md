@@ -116,4 +116,4 @@ Full write-ups for all of the above: **[portfolio-showcases repo](https://github
 
 ---
 
-<p align="center"><i>Open to Frontend/Full-Stack Engineer opportunities — feel free to reach out.</i></p>
+<p align="center"><i>Open to Team Lead/Full-Stack Engineer opportunities — feel free to reach out.</i></p>
